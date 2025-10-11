@@ -1,0 +1,244 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d5" for="edge" attr.name="color" attr.type="string"/>
+<key id="d4" for="node" attr.name="y" attr.type="long"/>
+<key id="d3" for="node" attr.name="x" attr.type="long"/>
+<key id="d2" for="node" attr.name="color" attr.type="string"/>
+<key id="d1" for="graph" attr.name="name" attr.type="string"/>
+<key id="d0" for="graph" attr.name="type" attr.type="string"/>
+<graph edgedefault="undirected"><data key="d0">board game</data>
+<data key="d1">pandemic hot zone USA</data>
+<node id="Calgary">
+  <data key="d2">red</data>
+  <data key="d3">-237</data>
+  <data key="d4">-359</data>
+</node>
+<node id="Seattle">
+  <data key="d2">red</data>
+  <data key="d3">-423</data>
+  <data key="d4">-297</data>
+</node>
+<node id="San Francisco">
+  <data key="d2">red</data>
+  <data key="d3">-429</data>
+  <data key="d4">-107</data>
+</node>
+<node id="Denver">
+  <data key="d2">red</data>
+  <data key="d3">-153</data>
+  <data key="d4">-129</data>
+</node>
+<node id="Minneapolis">
+  <data key="d2">red</data>
+  <data key="d3">27</data>
+  <data key="d4">-277</data>
+</node>
+<node id="Los Angeles">
+  <data key="d2">red</data>
+  <data key="d3">-553</data>
+  <data key="d4">75</data>
+</node>
+<node id="Phoenix">
+  <data key="d2">red</data>
+  <data key="d3">-305</data>
+  <data key="d4">33</data>
+</node>
+<node id="Dallas">
+  <data key="d2">red</data>
+  <data key="d3">-75</data>
+  <data key="d4">21</data>
+</node>
+<node id="Chicago">
+  <data key="d2">blue</data>
+  <data key="d3">221</data>
+  <data key="d4">-243</data>
+</node>
+<node id="Toronto">
+  <data key="d2">blue</data>
+  <data key="d3">313</data>
+  <data key="d4">-377</data>
+</node>
+<node id="Montréal">
+  <data key="d2">blue</data>
+  <data key="d3">481</data>
+  <data key="d4">-439</data>
+</node>
+<node id="Boston">
+  <data key="d2">blue</data>
+  <data key="d3">597</data>
+  <data key="d4">-327</data>
+</node>
+<node id="New York">
+  <data key="d2">blue</data>
+  <data key="d3">487</data>
+  <data key="d4">-223</data>
+</node>
+<node id="Washington">
+  <data key="d2">blue</data>
+  <data key="d3">457</data>
+  <data key="d4">-63</data>
+</node>
+<node id="Indianapolis">
+  <data key="d2">blue</data>
+  <data key="d3">111</data>
+  <data key="d4">-101</data>
+</node>
+<node id="Atlanta">
+  <data key="d2">blue</data>
+  <data key="d3">235</data>
+  <data key="d4">9</data>
+</node>
+<node id="Monterrey">
+  <data key="d2">yellow</data>
+  <data key="d3">-167</data>
+  <data key="d4">203</data>
+</node>
+<node id="New Orleans">
+  <data key="d2">yellow</data>
+  <data key="d3">107</data>
+  <data key="d4">199</data>
+</node>
+<node id="Miami">
+  <data key="d2">yellow</data>
+  <data key="d3">445</data>
+  <data key="d4">193</data>
+</node>
+<node id="Guadalajara">
+  <data key="d2">yellow</data>
+  <data key="d3">-209</data>
+  <data key="d4">409</data>
+</node>
+<node id="Ciudad de Mexico">
+  <data key="d2">yellow</data>
+  <data key="d3">-5</data>
+  <data key="d4">403</data>
+</node>
+<node id="Tegucigalpa">
+  <data key="d2">yellow</data>
+  <data key="d3">221</data>
+  <data key="d4">459</data>
+</node>
+<node id="Havana">
+  <data key="d2">yellow</data>
+  <data key="d3">315</data>
+  <data key="d4">321</data>
+</node>
+<node id="Santo Domingo">
+  <data key="d2">yellow</data>
+  <data key="d3">621</data>
+  <data key="d4">297</data>
+</node>
+<edge source="Calgary" target="Seattle">
+  <data key="d5">black</data>
+</edge>
+<edge source="Calgary" target="Denver">
+  <data key="d5">black</data>
+</edge>
+<edge source="Calgary" target="Minneapolis">
+  <data key="d5">black</data>
+</edge>
+<edge source="Seattle" target="San Francisco">
+  <data key="d5">black</data>
+</edge>
+<edge source="San Francisco" target="Denver">
+  <data key="d5">black</data>
+</edge>
+<edge source="San Francisco" target="Los Angeles">
+  <data key="d5">black</data>
+</edge>
+<edge source="Denver" target="Minneapolis">
+  <data key="d5">black</data>
+</edge>
+<edge source="Denver" target="Phoenix">
+  <data key="d5">black</data>
+</edge>
+<edge source="Minneapolis" target="Chicago">
+  <data key="d5">black</data>
+</edge>
+<edge source="Los Angeles" target="Guadalajara">
+  <data key="d5">black</data>
+</edge>
+<edge source="Los Angeles" target="Phoenix">
+  <data key="d5">black</data>
+</edge>
+<edge source="Phoenix" target="Dallas">
+  <data key="d5">black</data>
+</edge>
+<edge source="Phoenix" target="Monterrey">
+  <data key="d5">black</data>
+</edge>
+<edge source="Dallas" target="Atlanta">
+  <data key="d5">black</data>
+</edge>
+<edge source="Dallas" target="Indianapolis">
+  <data key="d5">black</data>
+</edge>
+<edge source="Dallas" target="New Orleans">
+  <data key="d5">black</data>
+</edge>
+<edge source="Chicago" target="Washington">
+  <data key="d5">black</data>
+</edge>
+<edge source="Chicago" target="Toronto">
+  <data key="d5">black</data>
+</edge>
+<edge source="Chicago" target="Indianapolis">
+  <data key="d5">black</data>
+</edge>
+<edge source="Toronto" target="Montréal">
+  <data key="d5">black</data>
+</edge>
+<edge source="Toronto" target="New York">
+  <data key="d5">black</data>
+</edge>
+<edge source="Montréal" target="New York">
+  <data key="d5">black</data>
+</edge>
+<edge source="Montréal" target="Boston">
+  <data key="d5">black</data>
+</edge>
+<edge source="Boston" target="New York">
+  <data key="d5">black</data>
+</edge>
+<edge source="New York" target="Washington">
+  <data key="d5">black</data>
+</edge>
+<edge source="Washington" target="Atlanta">
+  <data key="d5">black</data>
+</edge>
+<edge source="Indianapolis" target="Atlanta">
+  <data key="d5">black</data>
+</edge>
+<edge source="Atlanta" target="Miami">
+  <data key="d5">black</data>
+</edge>
+<edge source="Monterrey" target="New Orleans">
+  <data key="d5">black</data>
+</edge>
+<edge source="Monterrey" target="Ciudad de Mexico">
+  <data key="d5">black</data>
+</edge>
+<edge source="Monterrey" target="Guadalajara">
+  <data key="d5">black</data>
+</edge>
+<edge source="New Orleans" target="Miami">
+  <data key="d5">black</data>
+</edge>
+<edge source="Miami" target="Havana">
+  <data key="d5">black</data>
+</edge>
+<edge source="Guadalajara" target="Ciudad de Mexico">
+  <data key="d5">black</data>
+</edge>
+<edge source="Ciudad de Mexico" target="Havana">
+  <data key="d5">black</data>
+</edge>
+<edge source="Ciudad de Mexico" target="Tegucigalpa">
+  <data key="d5">black</data>
+</edge>
+<edge source="Tegucigalpa" target="Havana">
+  <data key="d5">black</data>
+</edge>
+<edge source="Havana" target="Santo Domingo">
+  <data key="d5">black</data>
+</edge>
+</graph></graphml>
