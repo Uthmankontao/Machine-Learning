@@ -1,0 +1,312 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d7" for="edge" attr.name="width" attr.type="long"/>
+<key id="d6" for="edge" attr.name="color" attr.type="string"/>
+<key id="d5" for="node" attr.name="size" attr.type="long"/>
+<key id="d4" for="node" attr.name="y" attr.type="long"/>
+<key id="d3" for="node" attr.name="x" attr.type="long"/>
+<key id="d2" for="node" attr.name="color" attr.type="string"/>
+<key id="d1" for="graph" attr.name="name" attr.type="string"/>
+<key id="d0" for="graph" attr.name="type" attr.type="string"/>
+<graph edgedefault="undirected"><data key="d0">board game</data>
+<data key="d1">pandemic hot zone Europe</data>
+<node id="Stockholm">
+  <data key="d2">red</data>
+  <data key="d3">78</data>
+  <data key="d4">-339</data>
+  <data key="d5">10</data>
+</node>
+<node id="Helsinki">
+  <data key="d2">red</data>
+  <data key="d3">276</data>
+  <data key="d4">-269</data>
+  <data key="d5">10</data>
+</node>
+<node id="Kobenhavn">
+  <data key="d2">red</data>
+  <data key="d3">-50</data>
+  <data key="d4">-225</data>
+  <data key="d5">10</data>
+</node>
+<node id="Moskva">
+  <data key="d2">red</data>
+  <data key="d3">454</data>
+  <data key="d4">-123</data>
+  <data key="d5">10</data>
+</node>
+<node id="Minsk">
+  <data key="d2">red</data>
+  <data key="d3">304</data>
+  <data key="d4">-77</data>
+  <data key="d5">10</data>
+</node>
+<node id="Warszawa">
+  <data key="d2">red</data>
+  <data key="d3">162</data>
+  <data key="d4">-87</data>
+  <data key="d5">10</data>
+</node>
+<node id="Kyiv">
+  <data key="d2">red</data>
+  <data key="d3">488</data>
+  <data key="d4">69</data>
+  <data key="d5">10</data>
+</node>
+<node id="Bucuresti">
+  <data key="d2">red</data>
+  <data key="d3">436</data>
+  <data key="d4">289</data>
+  <data key="d5">10</data>
+</node>
+<node id="Berlin">
+  <data key="d2">blue</data>
+  <data key="d3">12</data>
+  <data key="d4">-53</data>
+  <data key="d5">10</data>
+</node>
+<node id="Hamburg">
+  <data key="d2">blue</data>
+  <data key="d3">-126</data>
+  <data key="d4">-57</data>
+  <data key="d5">10</data>
+</node>
+<node id="Amsterdam">
+  <data key="d2">blue</data>
+  <data key="d3">-260</data>
+  <data key="d4">-121</data>
+  <data key="d5">10</data>
+</node>
+<node id="Glasgow">
+  <data key="d2">blue</data>
+  <data key="d3">-372</data>
+  <data key="d4">-179</data>
+  <data key="d5">10</data>
+</node>
+<node id="Dublin">
+  <data key="d2">blue</data>
+  <data key="d3">-566</data>
+  <data key="d4">-77</data>
+  <data key="d5">10</data>
+</node>
+<node id="London">
+  <data key="d2">blue</data>
+  <data key="d3">-454</data>
+  <data key="d4">47</data>
+  <data key="d5">10</data>
+</node>
+<node id="Paris">
+  <data key="d2">blue</data>
+  <data key="d3">-284</data>
+  <data key="d4">93</data>
+  <data key="d5">10</data>
+</node>
+<node id="Praha">
+  <data key="d2">blue</data>
+  <data key="d3">8</data>
+  <data key="d4">69</data>
+  <data key="d5">10</data>
+</node>
+<node id="Budapest">
+  <data key="d2">yellow</data>
+  <data key="d3">162</data>
+  <data key="d4">105</data>
+  <data key="d5">10</data>
+</node>
+<node id="Wien">
+  <data key="d2">yellow</data>
+  <data key="d3">-32</data>
+  <data key="d4">243</data>
+  <data key="d5">10</data>
+</node>
+<node id="Genève">
+  <data key="d2">yellow</data>
+  <data key="d3">-252</data>
+  <data key="d4">271</data>
+  <data key="d5">10</data>
+</node>
+<node id="Sofia">
+  <data key="d2">yellow</data>
+  <data key="d3">222</data>
+  <data key="d4">325</data>
+  <data key="d5">10</data>
+</node>
+<node id="Madrid">
+  <data key="d2">yellow</data>
+  <data key="d3">-498</data>
+  <data key="d4">343</data>
+  <data key="d5">10</data>
+</node>
+<node id="Lisboa">
+  <data key="d2">yellow</data>
+  <data key="d3">-670</data>
+  <data key="d4">361</data>
+  <data key="d5">10</data>
+</node>
+<node id="Roma">
+  <data key="d2">yellow</data>
+  <data key="d3">-50</data>
+  <data key="d4">417</data>
+  <data key="d5">10</data>
+</node>
+<node id="Athina">
+  <data key="d2">yellow</data>
+  <data key="d3">240</data>
+  <data key="d4">465</data>
+  <data key="d5">10</data>
+</node>
+<edge source="Stockholm" target="Warszawa">
+  <data key="d6">black</data>
+  <data key="d7">1</data>
+</edge>
+<edge source="Stockholm" target="Helsinki">
+  <data key="d6">black</data>
+  <data key="d7">1</data>
+</edge>
+<edge source="Stockholm" target="Kobenhavn">
+  <data key="d6">black</data>
+  <data key="d7">1</data>
+</edge>
+<edge source="Helsinki" target="Moskva">
+  <data key="d6">black</data>
+  <data key="d7">1</data>
+</edge>
+<edge source="Kobenhavn" target="Hamburg">
+  <data key="d6">black</data>
+  <data key="d7">1</data>
+</edge>
+<edge source="Kobenhavn" target="Warszawa">
+  <data key="d6">black</data>
+  <data key="d7">1</data>
+</edge>
+<edge source="Moskva" target="Minsk">
+  <data key="d6">black</data>
+  <data key="d7">1</data>
+</edge>
+<edge source="Moskva" target="Kyiv">
+  <data key="d6">black</data>
+  <data key="d7">1</data>
+</edge>
+<edge source="Minsk" target="Warszawa">
+  <data key="d6">black</data>
+  <data key="d7">1</data>
+</edge>
+<edge source="Minsk" target="Kyiv">
+  <data key="d6">black</data>
+  <data key="d7">1</data>
+</edge>
+<edge source="Minsk" target="Budapest">
+  <data key="d6">black</data>
+  <data key="d7">1</data>
+</edge>
+<edge source="Warszawa" target="Berlin">
+  <data key="d6">black</data>
+  <data key="d7">1</data>
+</edge>
+<edge source="Kyiv" target="Bucuresti">
+  <data key="d6">black</data>
+  <data key="d7">1</data>
+</edge>
+<edge source="Bucuresti" target="Sofia">
+  <data key="d6">black</data>
+  <data key="d7">1</data>
+</edge>
+<edge source="Bucuresti" target="Athina">
+  <data key="d6">black</data>
+  <data key="d7">1</data>
+</edge>
+<edge source="Berlin" target="Paris">
+  <data key="d6">black</data>
+  <data key="d7">1</data>
+</edge>
+<edge source="Berlin" target="Hamburg">
+  <data key="d6">black</data>
+  <data key="d7">1</data>
+</edge>
+<edge source="Berlin" target="Praha">
+  <data key="d6">black</data>
+  <data key="d7">1</data>
+</edge>
+<edge source="Hamburg" target="Amsterdam">
+  <data key="d6">black</data>
+  <data key="d7">1</data>
+</edge>
+<edge source="Amsterdam" target="Paris">
+  <data key="d6">black</data>
+  <data key="d7">1</data>
+</edge>
+<edge source="Amsterdam" target="London">
+  <data key="d6">black</data>
+  <data key="d7">1</data>
+</edge>
+<edge source="Glasgow" target="London">
+  <data key="d6">black</data>
+  <data key="d7">1</data>
+</edge>
+<edge source="Glasgow" target="Dublin">
+  <data key="d6">black</data>
+  <data key="d7">1</data>
+</edge>
+<edge source="Dublin" target="London">
+  <data key="d6">black</data>
+  <data key="d7">1</data>
+</edge>
+<edge source="London" target="Paris">
+  <data key="d6">black</data>
+  <data key="d7">1</data>
+</edge>
+<edge source="Paris" target="Genève">
+  <data key="d6">black</data>
+  <data key="d7">1</data>
+</edge>
+<edge source="Paris" target="Madrid">
+  <data key="d6">black</data>
+  <data key="d7">1</data>
+</edge>
+<edge source="Praha" target="Wien">
+  <data key="d6">black</data>
+  <data key="d7">1</data>
+</edge>
+<edge source="Praha" target="Genève">
+  <data key="d6">black</data>
+  <data key="d7">1</data>
+</edge>
+<edge source="Budapest" target="Sofia">
+  <data key="d6">black</data>
+  <data key="d7">1</data>
+</edge>
+<edge source="Budapest" target="Wien">
+  <data key="d6">black</data>
+  <data key="d7">1</data>
+</edge>
+<edge source="Wien" target="Genève">
+  <data key="d6">black</data>
+  <data key="d7">1</data>
+</edge>
+<edge source="Wien" target="Sofia">
+  <data key="d6">black</data>
+  <data key="d7">1</data>
+</edge>
+<edge source="Wien" target="Roma">
+  <data key="d6">black</data>
+  <data key="d7">1</data>
+</edge>
+<edge source="Genève" target="Madrid">
+  <data key="d6">black</data>
+  <data key="d7">1</data>
+</edge>
+<edge source="Genève" target="Roma">
+  <data key="d6">black</data>
+  <data key="d7">1</data>
+</edge>
+<edge source="Sofia" target="Athina">
+  <data key="d6">black</data>
+  <data key="d7">1</data>
+</edge>
+<edge source="Madrid" target="Lisboa">
+  <data key="d6">black</data>
+  <data key="d7">1</data>
+</edge>
+<edge source="Roma" target="Athina">
+  <data key="d6">black</data>
+  <data key="d7">1</data>
+</edge>
+</graph></graphml>
