@@ -1,0 +1,381 @@
+{
+  "schema_version": "1.0",
+  "generated_at": "2026-04-21T13:14:22.919146+00:00",
+  "repo_root": "/home/runner/work/Machine-Learning/Machine-Learning",
+  "nodes": {
+    "ML_graphs/PART I/TP3_Graphs_Morphisms/pandemic_europe.graphml": {
+      "id": "ML_graphs/PART I/TP3_Graphs_Morphisms/pandemic_europe.graphml",
+      "node_type": "dataset",
+      "path": "ML_graphs/PART I/TP3_Graphs_Morphisms/pandemic_europe.graphml",
+      "description": "Data file: pandemic_europe.graphml"
+    },
+    "ML_graphs/PART I/TP2_Algorithms/ticket_to_ride_board_london.graphml": {
+      "id": "ML_graphs/PART I/TP2_Algorithms/ticket_to_ride_board_london.graphml",
+      "node_type": "dataset",
+      "path": "ML_graphs/PART I/TP2_Algorithms/ticket_to_ride_board_london.graphml",
+      "description": "Data file: ticket_to_ride_board_london.graphml"
+    },
+    "ML_graphs/PART I/TP2_Algorithms/pandemic_board_us.graphml": {
+      "id": "ML_graphs/PART I/TP2_Algorithms/pandemic_board_us.graphml",
+      "node_type": "dataset",
+      "path": "ML_graphs/PART I/TP2_Algorithms/pandemic_board_us.graphml",
+      "description": "Data file: pandemic_board_us.graphml"
+    },
+    "ML_graphs/PART II/2_Astar/data/3.json": {
+      "id": "ML_graphs/PART II/2_Astar/data/3.json",
+      "node_type": "dataset",
+      "path": "ML_graphs/PART II/2_Astar/data/3.json",
+      "description": "Data file: 3.json"
+    },
+    "ML_graphs/PART II/2_Astar/data/2.json": {
+      "id": "ML_graphs/PART II/2_Astar/data/2.json",
+      "node_type": "dataset",
+      "path": "ML_graphs/PART II/2_Astar/data/2.json",
+      "description": "Data file: 2.json"
+    },
+    "ML_graphs/PART II/2_Astar/data/4.json": {
+      "id": "ML_graphs/PART II/2_Astar/data/4.json",
+      "node_type": "dataset",
+      "path": "ML_graphs/PART II/2_Astar/data/4.json",
+      "description": "Data file: 4.json"
+    },
+    "ML_graphs/PART II/2_Astar/data/0.json": {
+      "id": "ML_graphs/PART II/2_Astar/data/0.json",
+      "node_type": "dataset",
+      "path": "ML_graphs/PART II/2_Astar/data/0.json",
+      "description": "Data file: 0.json"
+    },
+    "ML_graphs/PART II/2_Astar/data/5.json": {
+      "id": "ML_graphs/PART II/2_Astar/data/5.json",
+      "node_type": "dataset",
+      "path": "ML_graphs/PART II/2_Astar/data/5.json",
+      "description": "Data file: 5.json"
+    },
+    "ML_graphs/PART II/2_Astar/data/1.json": {
+      "id": "ML_graphs/PART II/2_Astar/data/1.json",
+      "node_type": "dataset",
+      "path": "ML_graphs/PART II/2_Astar/data/1.json",
+      "description": "Data file: 1.json"
+    },
+    "ML_graphs/PART II/1_Graph Edit Distance with LSAP/data/3.json": {
+      "id": "ML_graphs/PART II/1_Graph Edit Distance with LSAP/data/3.json",
+      "node_type": "dataset",
+      "path": "ML_graphs/PART II/1_Graph Edit Distance with LSAP/data/3.json",
+      "description": "Data file: 3.json"
+    },
+    "ML_graphs/PART II/1_Graph Edit Distance with LSAP/data/2.json": {
+      "id": "ML_graphs/PART II/1_Graph Edit Distance with LSAP/data/2.json",
+      "node_type": "dataset",
+      "path": "ML_graphs/PART II/1_Graph Edit Distance with LSAP/data/2.json",
+      "description": "Data file: 2.json"
+    },
+    "ML_graphs/PART II/1_Graph Edit Distance with LSAP/data/4.json": {
+      "id": "ML_graphs/PART II/1_Graph Edit Distance with LSAP/data/4.json",
+      "node_type": "dataset",
+      "path": "ML_graphs/PART II/1_Graph Edit Distance with LSAP/data/4.json",
+      "description": "Data file: 4.json"
+    },
+    "ML_graphs/PART II/1_Graph Edit Distance with LSAP/data/0.json": {
+      "id": "ML_graphs/PART II/1_Graph Edit Distance with LSAP/data/0.json",
+      "node_type": "dataset",
+      "path": "ML_graphs/PART II/1_Graph Edit Distance with LSAP/data/0.json",
+      "description": "Data file: 0.json"
+    },
+    "ML_graphs/PART II/1_Graph Edit Distance with LSAP/data/5.json": {
+      "id": "ML_graphs/PART II/1_Graph Edit Distance with LSAP/data/5.json",
+      "node_type": "dataset",
+      "path": "ML_graphs/PART II/1_Graph Edit Distance with LSAP/data/5.json",
+      "description": "Data file: 5.json"
+    },
+    "ML_graphs/PART II/1_Graph Edit Distance with LSAP/data/1.json": {
+      "id": "ML_graphs/PART II/1_Graph Edit Distance with LSAP/data/1.json",
+      "node_type": "dataset",
+      "path": "ML_graphs/PART II/1_Graph Edit Distance with LSAP/data/1.json",
+      "description": "Data file: 1.json"
+    },
+    "ML_advanced/MMM/MMM_data.xlsx": {
+      "id": "ML_advanced/MMM/MMM_data.xlsx",
+      "node_type": "dataset",
+      "path": "ML_advanced/MMM/MMM_data.xlsx",
+      "description": "Data file: MMM_data.xlsx"
+    },
+    "ML_graphs/PART I/TP3_Graphs_Morphisms/practical.ipynb": {
+      "id": "ML_graphs/PART I/TP3_Graphs_Morphisms/practical.ipynb",
+      "node_type": "notebook",
+      "path": "ML_graphs/PART I/TP3_Graphs_Morphisms/practical.ipynb",
+      "description": "Notebook: practical.ipynb"
+    },
+    "ML_graphs/PART I/TP2_Algorithms/practical.ipynb": {
+      "id": "ML_graphs/PART I/TP2_Algorithms/practical.ipynb",
+      "node_type": "notebook",
+      "path": "ML_graphs/PART I/TP2_Algorithms/practical.ipynb",
+      "description": "Notebook: practical.ipynb"
+    },
+    "ML_graphs/PART I/TP2_Algorithms/maze.py": {
+      "id": "ML_graphs/PART I/TP2_Algorithms/maze.py",
+      "node_type": "script",
+      "path": "ML_graphs/PART I/TP2_Algorithms/maze.py",
+      "description": "Script: maze.py"
+    },
+    "ML_graphs/PART I/TP1_Introduction/Ticket_to_Ride&pandemic_hot.ipynb": {
+      "id": "ML_graphs/PART I/TP1_Introduction/Ticket_to_Ride&pandemic_hot.ipynb",
+      "node_type": "notebook",
+      "path": "ML_graphs/PART I/TP1_Introduction/Ticket_to_Ride&pandemic_hot.ipynb",
+      "description": "Notebook: Ticket_to_Ride&pandemic_hot.ipynb"
+    },
+    "ML_graphs/PART I/TP1_Introduction/__init__.py": {
+      "id": "ML_graphs/PART I/TP1_Introduction/__init__.py",
+      "node_type": "script",
+      "path": "ML_graphs/PART I/TP1_Introduction/__init__.py",
+      "description": "Script: __init__.py"
+    },
+    "ML_graphs/PART II/__init__.py": {
+      "id": "ML_graphs/PART II/__init__.py",
+      "node_type": "script",
+      "path": "ML_graphs/PART II/__init__.py",
+      "description": "Script: __init__.py"
+    },
+    "ML_graphs/PART II/2_Astar/GED_lib.py": {
+      "id": "ML_graphs/PART II/2_Astar/GED_lib.py",
+      "node_type": "script",
+      "path": "ML_graphs/PART II/2_Astar/GED_lib.py",
+      "description": "Script: GED_lib.py"
+    },
+    "ML_graphs/PART II/2_Astar/TP_Astar.ipynb": {
+      "id": "ML_graphs/PART II/2_Astar/TP_Astar.ipynb",
+      "node_type": "notebook",
+      "path": "ML_graphs/PART II/2_Astar/TP_Astar.ipynb",
+      "description": "Notebook: TP_Astar.ipynb"
+    },
+    "ML_graphs/PART II/2_Astar/__init__.py": {
+      "id": "ML_graphs/PART II/2_Astar/__init__.py",
+      "node_type": "script",
+      "path": "ML_graphs/PART II/2_Astar/__init__.py",
+      "description": "Script: __init__.py"
+    },
+    "ML_graphs/PART II/1_Graph Edit Distance with LSAP/GED_lib.py": {
+      "id": "ML_graphs/PART II/1_Graph Edit Distance with LSAP/GED_lib.py",
+      "node_type": "script",
+      "path": "ML_graphs/PART II/1_Graph Edit Distance with LSAP/GED_lib.py",
+      "description": "Script: GED_lib.py"
+    },
+    "ML_graphs/PART II/1_Graph Edit Distance with LSAP/TP_BPGED.ipynb": {
+      "id": "ML_graphs/PART II/1_Graph Edit Distance with LSAP/TP_BPGED.ipynb",
+      "node_type": "notebook",
+      "path": "ML_graphs/PART II/1_Graph Edit Distance with LSAP/TP_BPGED.ipynb",
+      "description": "Notebook: TP_BPGED.ipynb"
+    },
+    "ML_graphs/PART II/1_Graph Edit Distance with LSAP/__init__.py": {
+      "id": "ML_graphs/PART II/1_Graph Edit Distance with LSAP/__init__.py",
+      "node_type": "script",
+      "path": "ML_graphs/PART II/1_Graph Edit Distance with LSAP/__init__.py",
+      "description": "Script: __init__.py"
+    },
+    "ML_graphs/PART IV/TP_GNN_challenge_M2/ZFRdataset.py": {
+      "id": "ML_graphs/PART IV/TP_GNN_challenge_M2/ZFRdataset.py",
+      "node_type": "script",
+      "path": "ML_graphs/PART IV/TP_GNN_challenge_M2/ZFRdataset.py",
+      "description": "Script: ZFRdataset.py"
+    },
+    "ML_graphs/PART IV/TP_GNN_challenge_M2/Deep learning on graphs.ipynb": {
+      "id": "ML_graphs/PART IV/TP_GNN_challenge_M2/Deep learning on graphs.ipynb",
+      "node_type": "notebook",
+      "path": "ML_graphs/PART IV/TP_GNN_challenge_M2/Deep learning on graphs.ipynb",
+      "description": "Notebook: Deep learning on graphs.ipynb"
+    },
+    "ML_graphs/PART IV/TP_Graph_spectral/TP_Graph_Spectral_theory.ipynb": {
+      "id": "ML_graphs/PART IV/TP_Graph_spectral/TP_Graph_Spectral_theory.ipynb",
+      "node_type": "notebook",
+      "path": "ML_graphs/PART IV/TP_Graph_spectral/TP_Graph_Spectral_theory.ipynb",
+      "description": "Notebook: TP_Graph_Spectral_theory.ipynb"
+    },
+    "ML_graphs/PART IV/TP_graph_expressive/preparecounting.py": {
+      "id": "ML_graphs/PART IV/TP_graph_expressive/preparecounting.py",
+      "node_type": "script",
+      "path": "ML_graphs/PART IV/TP_graph_expressive/preparecounting.py",
+      "description": "Script: preparecounting.py"
+    },
+    "ML_graphs/PART IV/TP_graph_expressive/TP_expressive.ipynb": {
+      "id": "ML_graphs/PART IV/TP_graph_expressive/TP_expressive.ipynb",
+      "node_type": "notebook",
+      "path": "ML_graphs/PART IV/TP_graph_expressive/TP_expressive.ipynb",
+      "description": "Notebook: TP_expressive.ipynb"
+    },
+    "ML_graphs/PART IV/TP_graph_expressive/Deep learning on graphs_1.ipynb": {
+      "id": "ML_graphs/PART IV/TP_graph_expressive/Deep learning on graphs_1.ipynb",
+      "node_type": "notebook",
+      "path": "ML_graphs/PART IV/TP_graph_expressive/Deep learning on graphs_1.ipynb",
+      "description": "Notebook: Deep learning on graphs_1.ipynb"
+    },
+    "ML_graphs/PART III/embedding.ipynb": {
+      "id": "ML_graphs/PART III/embedding.ipynb",
+      "node_type": "notebook",
+      "path": "ML_graphs/PART III/embedding.ipynb",
+      "description": "Notebook: embedding.ipynb"
+    },
+    "ML_graphs/PART III/test.ipynb": {
+      "id": "ML_graphs/PART III/test.ipynb",
+      "node_type": "notebook",
+      "path": "ML_graphs/PART III/test.ipynb",
+      "description": "Notebook: test.ipynb"
+    },
+    "ML_ReinforceLearning/TP2/markov.ipynb": {
+      "id": "ML_ReinforceLearning/TP2/markov.ipynb",
+      "node_type": "notebook",
+      "path": "ML_ReinforceLearning/TP2/markov.ipynb",
+      "description": "Notebook: markov.ipynb"
+    },
+    "ML_ReinforceLearning/TP2/forTp2.py": {
+      "id": "ML_ReinforceLearning/TP2/forTp2.py",
+      "node_type": "script",
+      "path": "ML_ReinforceLearning/TP2/forTp2.py",
+      "description": "Script: forTp2.py"
+    },
+    "ML_ReinforceLearning/TP3/test.py": {
+      "id": "ML_ReinforceLearning/TP3/test.py",
+      "node_type": "script",
+      "path": "ML_ReinforceLearning/TP3/test.py",
+      "description": "Script: test.py"
+    },
+    "ML_ReinforceLearning/TP3/ForTP3.py": {
+      "id": "ML_ReinforceLearning/TP3/ForTP3.py",
+      "node_type": "script",
+      "path": "ML_ReinforceLearning/TP3/ForTP3.py",
+      "description": "Script: ForTP3.py"
+    },
+    "ML_ReinforceLearning/TP3/Maze_generating_interface.py": {
+      "id": "ML_ReinforceLearning/TP3/Maze_generating_interface.py",
+      "node_type": "script",
+      "path": "ML_ReinforceLearning/TP3/Maze_generating_interface.py",
+      "description": "Script: Maze_generating_interface.py"
+    },
+    "ML_ReinforceLearning/TP1/bandits.ipynb": {
+      "id": "ML_ReinforceLearning/TP1/bandits.ipynb",
+      "node_type": "notebook",
+      "path": "ML_ReinforceLearning/TP1/bandits.ipynb",
+      "description": "Notebook: bandits.ipynb"
+    },
+    "ML_ReinforceLearning/TP1/forTP1.py": {
+      "id": "ML_ReinforceLearning/TP1/forTP1.py",
+      "node_type": "script",
+      "path": "ML_ReinforceLearning/TP1/forTP1.py",
+      "description": "Script: forTP1.py"
+    },
+    "ML_advanced/2_Lasso/lasso_practice.ipynb": {
+      "id": "ML_advanced/2_Lasso/lasso_practice.ipynb",
+      "node_type": "notebook",
+      "path": "ML_advanced/2_Lasso/lasso_practice.ipynb",
+      "description": "Notebook: lasso_practice.ipynb"
+    },
+    "ML_advanced/4_Conditions_Optimalité/practice.ipynb": {
+      "id": "ML_advanced/4_Conditions_Optimalité/practice.ipynb",
+      "node_type": "notebook",
+      "path": "ML_advanced/4_Conditions_Optimalité/practice.ipynb",
+      "description": "Notebook: practice.ipynb"
+    },
+    "ML_advanced/5_Lasso_proximal/APPC_TP_Lasso.ipynb": {
+      "id": "ML_advanced/5_Lasso_proximal/APPC_TP_Lasso.ipynb",
+      "node_type": "notebook",
+      "path": "ML_advanced/5_Lasso_proximal/APPC_TP_Lasso.ipynb",
+      "description": "Notebook: APPC_TP_Lasso.ipynb"
+    },
+    "ML_advanced/5_Lasso_proximal/main..ipynb": {
+      "id": "ML_advanced/5_Lasso_proximal/main..ipynb",
+      "node_type": "notebook",
+      "path": "ML_advanced/5_Lasso_proximal/main..ipynb",
+      "description": "Notebook: main..ipynb"
+    },
+    "ML_advanced/3_Lasso_et_Ridge/practice.ipynb": {
+      "id": "ML_advanced/3_Lasso_et_Ridge/practice.ipynb",
+      "node_type": "notebook",
+      "path": "ML_advanced/3_Lasso_et_Ridge/practice.ipynb",
+      "description": "Notebook: practice.ipynb"
+    },
+    "ML_advanced/TP8_ElasticNet/tp8.ipynb": {
+      "id": "ML_advanced/TP8_ElasticNet/tp8.ipynb",
+      "node_type": "notebook",
+      "path": "ML_advanced/TP8_ElasticNet/tp8.ipynb",
+      "description": "Notebook: tp8.ipynb"
+    },
+    "ML_advanced/1_Régression Linéaire/tp1.ipynb": {
+      "id": "ML_advanced/1_Régression Linéaire/tp1.ipynb",
+      "node_type": "notebook",
+      "path": "ML_advanced/1_Régression Linéaire/tp1.ipynb",
+      "description": "Notebook: tp1.ipynb"
+    },
+    "ML_advanced/MMM/main.ipynb": {
+      "id": "ML_advanced/MMM/main.ipynb",
+      "node_type": "notebook",
+      "path": "ML_advanced/MMM/main.ipynb",
+      "description": "Notebook: main.ipynb"
+    },
+    "ML_advanced/MMM/stats.ipynb": {
+      "id": "ML_advanced/MMM/stats.ipynb",
+      "node_type": "notebook",
+      "path": "ML_advanced/MMM/stats.ipynb",
+      "description": "Notebook: stats.ipynb"
+    }
+  },
+  "edges": [
+    {
+      "source": "ML_graphs/PART I/TP3_Graphs_Morphisms/practical.ipynb",
+      "target": "ML_graphs/PART I/TP3_Graphs_Morphisms/pandemic_europe.graphml",
+      "edge_type": "reads",
+      "context": "cell_id=76920341"
+    },
+    {
+      "source": "ML_graphs/PART I/TP2_Algorithms/practical.ipynb",
+      "target": "ML_graphs/PART I/TP2_Algorithms/ticket_to_ride_board_london.graphml",
+      "edge_type": "reads",
+      "context": "cell_id=d721debc"
+    },
+    {
+      "source": "ML_graphs/PART I/TP2_Algorithms/practical.ipynb",
+      "target": "ML_graphs/PART I/TP2_Algorithms/pandemic_board_us.graphml",
+      "edge_type": "reads",
+      "context": "cell_id=8a5b26c9"
+    },
+    {
+      "source": "ML_graphs/PART II/2_Astar/TP_Astar.ipynb",
+      "target": "ML_graphs/PART II/2_Astar/GED_lib.py",
+      "edge_type": "imports",
+      "context": "cell_id=b878b28a"
+    },
+    {
+      "source": "ML_graphs/PART II/1_Graph Edit Distance with LSAP/TP_BPGED.ipynb",
+      "target": "ML_graphs/PART II/1_Graph Edit Distance with LSAP/GED_lib.py",
+      "edge_type": "imports",
+      "context": "cell_id=bd6227ed"
+    },
+    {
+      "source": "ML_graphs/PART IV/TP_GNN_challenge_M2/Deep learning on graphs.ipynb",
+      "target": "ML_graphs/PART IV/TP_GNN_challenge_M2/ZFRdataset.py",
+      "edge_type": "imports",
+      "context": "cell_id=4cb42fe8"
+    },
+    {
+      "source": "ML_graphs/PART IV/TP_graph_expressive/TP_expressive.ipynb",
+      "target": "ML_graphs/PART IV/TP_graph_expressive/preparecounting.py",
+      "edge_type": "imports",
+      "context": "cell_id=231af955"
+    },
+    {
+      "source": "ML_ReinforceLearning/TP2/markov.ipynb",
+      "target": "ML_ReinforceLearning/TP2/forTp2.py",
+      "edge_type": "imports",
+      "context": "cell_id=3d4f079c"
+    },
+    {
+      "source": "ML_ReinforceLearning/TP3/ForTP3.py",
+      "target": "ML_ReinforceLearning/TP3/Maze_generating_interface.py",
+      "edge_type": "imports",
+      "context": ""
+    },
+    {
+      "source": "ML_ReinforceLearning/TP1/bandits.ipynb",
+      "target": "ML_ReinforceLearning/TP1/forTP1.py",
+      "edge_type": "imports",
+      "context": "cell_id=fa8e040e"
+    }
+  ]
+}
